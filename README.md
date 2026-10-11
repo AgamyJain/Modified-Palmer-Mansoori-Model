@@ -400,20 +400,19 @@ The purpose is to make the model workflow reproducible and easier to inspect as 
 
 ## Author
 
-## Author
-
 **Agamya Jain**
 
 - GitHub: [@AgamyJain](https://github.com/AgamyJain)
 - LinkedIn: [in/agamya-jain](https://www.linkedin.com/in/agamya-jain)
 
----
 
 <p align="center">
   <strong>Modified Palmer–Mansoori Permeability Model</strong>
   <br>
   Python • NumPy • Pandas • Matplotlib • Engineering Model Analysis
 </p>
+---
 
 [← Back to repository root](https://github.com/AgamyJain/Modified-Palmer-Mansoori-Model/blob/main/README.md)
+
 ---
